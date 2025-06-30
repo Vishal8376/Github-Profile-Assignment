@@ -19,6 +19,9 @@ I'm a passionate Computer Science student with a keen interest in **problem-solv
 
 ---
 
+**## Portfolio**
+https://simple-profile-creator.lovable.app/
+
 ## 💡 A Little More About Me
 
 ✨ **Fun Fact**: I can write code faster than I can write essays 😄  
