@@ -19,8 +19,10 @@ I'm a passionate Computer Science student with a keen interest in **problem-solv
 
 ---
 
-**## Portfolio**
+## 🌐 **Portfolio**
 https://simple-profile-creator.lovable.app/
+
+---
 
 ## 💡 A Little More About Me
 
